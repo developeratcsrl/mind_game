@@ -99720,7 +99720,7 @@ s.KO()},
 tj(){this.ai(new B.ao6(this))},
 KM(){this.ai(new B.ao7(this))},
 KO(){this.ai(new B.ao8(this,B.CB(new B.iG(Date.now(),0,!1))))},
-a0(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a="Story Code",a0=B.bP(a3,b,t.w).w.a.a,a1=a0<600,a2=a0>=600&&a0<1024
+a0(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a="Identify the Code as per Acharya Training",a0=B.bP(a3,b,t.w).w.a.a,a1=a0<600,a2=a0>=600&&a0<1024
 if(a1)s=110
 else s=a2?150:180
 if(a1)r=20
@@ -100063,7 +100063,7 @@ if(s.length===0)s.push(null)},
 $S:0}
 B.Ej.prototype={
 aC(){var s=t.N
-s=B.az(["0","Zoo","1","Day","2","Knee","3","Ma","4","Ray","5","Law","6","Jaw","7","Key","8","Fee","9","Bee","10","Dosa","11","Dad","12","Den","13","Dam","14","Door","15","Doil","16","Dish","17","Duck","18","Deaf","19","Deep","20","Nose","21","Net","22","Nun","23","Neam","24","Nehru","25","Nail","26","Naach","27","Neck","28","Navy","29","Nap","30","Mouse","31","Mat","32","Moon","33","Mummy","34","Marry","35","Mail","36","Mesh","37","Mike","38","Movie","39","Map","40","Rose","41","Rat","42","Rain","43","Rum","44","Roar","45","Rail","46","Raja","47","Rock","48","Roof","49","Rope","50","Laace","51","Laddu","52","Lion","53","Lime","54","Lorry","55","Lilly","56","Laach","57","Lake","58","Leaf","59","Lap","60","Chess","61","Chat","62","Chain","63","Chime","64","Chair","65","Chilly","66","Chacha","67","Cheque","68","Chef","69","Chop","70","Case","71","Cat","72","Cane","73","Cam","74","Car","75","Coal","76","Cash","77","Cake","78","Coffee","79","Cap","80","Fuse","81","Fat","82","Fan","83","Foam","84","Fire","85","Fool","86","Fish","87","Fog","88","Fife","89","Fab","90","Bus","91","Bat","92","Bun","93","Balm","94","Bar","95","Ball","96","Beach","97","Bike","98","Beef","99","Baby","100","Disease","00","Sauce","01","Suit","02","Sun","03","Sumo","04","Saree","05","Sail","06","Soach","07","Sack","08","Sofa","09","Soap"],s,s)
+s=B.az(["0","Zoo","1","Day","2","Knee","3","Ma","4","Ray","5","Law","6","Jaw","7","Key","8","Fee","9","Bee","10","Dosa","11","Dad","12","Den","13","Dam","14","Door","15","Doll","16","Dish","17","Duck","18","Deaf","19","Deep","20","Nose","21","Net","22","Nun","23","Neem","24","Nehru","25","Nail","26","Naach","27","Neck","28","Navy","29","Nap","30","Mouse","31","Mat","32","Moon","33","Mummy","34","Marry","35","Mail","36","Mesh","37","Mike","38","Movie","39","Map","40","Rose","41","Rat","42","Rain","43","Rum","44","Roar","45","Rail","46","Raja","47","Rock","48","Roof","49","Rope","50","Lace","51","Laddu","52","Lion","53","Lime","54","Lorry","55","Lilly","56","Laach","57","Lake","58","Leaf","59","Lap","60","Chess","61","Chat","62","Chain","63","Chime","64","Chair","65","Chilly","66","Chacha","67","Cheque","68","Chef","69","Chop","70","Case","71","Cat","72","Cane","73","Cam","74","Car","75","Coal","76","Cash","77","Cake","78","Coffee","79","Cap","80","Fuse","81","Fat","82","Fan","83","Foam","84","Fire","85","Fool","86","Fish","87","Fog","88","Fife","89","Fab","90","Bus","91","Bat","92","Bun","93","Balm","94","Bar","95","Ball","96","Beach","97","Bike","98","Beef","99","Baby","100","Disease","00","Sauce","01","Suit","02","Sun","03","Sumo","04","Saree","05","Sail","06","Soch","07","Sack","08","Sofa","09","Soap"],s,s)
 return new B.In(s,new B.wF(A.qo,$.aK()),B.b([],t.s),B.b([],t.PF),B.b([],t.HZ))}}
 B.In.prototype={
 a_v(){var s,r,q,p,o,n,m,l,k=this,j=B.w_(k.e.a.a,null)
@@ -104217,7 +104217,7 @@ A.Sk=new B.B0(null,null,null,null,null,null,null,null,null,A.tZ,A.rx,!1,null,!1,
 A.cr=new B.z(!0,A.D,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 A.re=new B.b2(A.P,1,A.a3,-1)
 A.aIE=new B.fZ(4,A.dZ,A.re)
-A.uz=new B.vk(null,null,null,"How many questions?",A.cr,null,null,null,null,null,null,null,null,null,null,null,!0,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,A.aIE,!0,null,null,null,null)
+A.uz=new B.vk(null,null,null,"Enter the count of questions you need to take test?",A.cr,null,null,null,null,null,null,null,null,null,null,null,!0,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,A.aIE,!0,null,null,null,null)
 A.aWM=new B.vk(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
 A.Sm=new B.NF(0,"nearest")
 A.aWN=new B.NF(1,"linear")
